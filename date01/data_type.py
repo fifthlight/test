@@ -33,7 +33,7 @@
 # list2=['你','我','他']
 # dict2={dict(list1),dict(list2)}
 # print(dict2)
-print(chr(('a'))#转换ascll码
+# print(chr(('a'))#转换ascll码
 # str2='3*5'
 # print(eval(str2))
 
